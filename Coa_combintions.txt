@@ -1599,6 +1599,7 @@ add30:
 
 Implement roots of a quadratic equation using a floating-point unit.
 
+extern printf,scanf
 %macro  PRINT 02
 	push rbp
 	mov rax,00
